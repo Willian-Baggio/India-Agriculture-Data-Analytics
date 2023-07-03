@@ -34,7 +34,7 @@ e disponibilizado através do site: https://www.kaggle.com/datasets/pyatakov/ind
 
 ## Os resultados dessa análise de dados revelaram os seguintes insights sobre a agricultura indiana:
 
-* As principais culturas agrícolas incluem arroz, trigo, algodão, cana-de-açúcar e leguminosas.
+* As principais culturas agrícolas incluem arroz, milho, trigo, e leguminosas.
 * Os estados de Uttar Pradesh, Kerala, Tamil Nadu e são as maiores contribuintes para a produção agrícola na Índia.
 * Kozhikode, Tumukur, Malappuram são os distritos que obtiveram a maior produção ao decorrer dos anos. 
 * A produtividade agrícola tem apresentado melhorias ao longo dos anos, impulsionadas pelo desenvolvimento de variedades de sementes de alta qualidade e práticas agrícolas avançadas.
